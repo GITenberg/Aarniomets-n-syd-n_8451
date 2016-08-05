@@ -1,0 +1,41 @@
+_repo: Aarniomets-n-syd-n_8451
+_version: 0.0.1
+alternative_title: The Heart of the Ancient Wood. Finnish
+contributor:
+  translator:
+    agent_name: Inha, Into Konrad
+    aliases:
+    - Nyström, Into Konrad
+    - Inha, I. K. (Into Konrad)
+    - Nystrom, Into Konrad
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '4411'
+    url: http://www.gutenberg.org/2009/agents/4411
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Sir Charles George Douglas
+    - Roberts, Charles George Douglas, Sir
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8451'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'New Brunswick -- Fiction'
+- GITenberg
+title: Aarniometsän sydän
+url: http://www.gutenberg.org/ebooks/8451
